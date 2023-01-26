@@ -1,0 +1,18 @@
+
+Unity/Detective Game Project/Assets/.vs
+Unity/Detective Game Project/Assets/Blink
+Unity/Detective Game Project/Assets/Scenes
+Unity/Detective Game Project/Assets/test
+Unity/Detective Game Project/Assets/TextMesh Pro
+Unity/Detective Game Project/Library
+Unity/Detective Game Project/Logs
+Unity/Detective Game Project/Packages
+Unity/Detective Game Project/ProjectSettings
+Unity/Detective Game Project/Temp
+Unity/Detective Game Project/UserSettings
+
+
+
+
+*.meta
+*.unity
